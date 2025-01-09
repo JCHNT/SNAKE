@@ -7,8 +7,6 @@
 
 A modern implementation of the classic Snake game built with React and TypeScript. This project features a sleek, responsive design and modern gaming mechanics.
 
-![Snake Game Screenshot](https://images.unsplash.com/photo-1615416141891-30b5ad2fc1c8?q=80&w=1920&auto=format&fit=crop)
-
 ## ✨ Key Features
 
 - 🎮 Smooth, responsive gameplay
@@ -115,9 +113,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername)
-
-Project Link: [https://github.com/yourusername/modern-snake-game](https://github.com/yourusername/modern-snake-game)
+Mail - jchouinato@gmail.com
 
 ---
 
